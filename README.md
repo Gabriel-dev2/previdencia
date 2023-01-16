@@ -62,14 +62,3 @@
 **Executar a imagem docker criada:**
 
         docker run previdencia:Dockerfile
-
-
-## Execução de testes unitários
-
-**Para a execução dos testes unitários é necessário a instalação da lib pytest**
-
-        pip install pytest
-
-**Para executar os testes basta digitar o seguinte comando no terminal (dentro do diretório root do projeto)**
-        
-        pytest
